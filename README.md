@@ -38,6 +38,14 @@
 - GPT Search Page
 - GPT Search Bar
 - Multi-language Feature in our App
+- Get Google AI Api key
+- Gemini Search Api Call
+- Fetched gptMovieSuggestions from TMDB
+- created gptSlice added data
+- Reused MovieList to make movie suggestion container
+- Memoization
+- Added .env file
+- Made our Site Responsive
 
 # Features
 
